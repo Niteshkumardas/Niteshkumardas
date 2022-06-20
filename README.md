@@ -5,12 +5,6 @@
 <!--   <h1 align="center">Hello there, <a href="https://phanjujuhel.com.np/" target="_blank" >Juhel</a> Here 👋</h1> -->
 </p>
 
-  
- 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00FF00&size=25&lines=Hello+there!;Developer,+I+am+hmmmm;" />
-</p>
-
 [<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />](https://www.youtube.com/watch?v=dhQ3AFpV52o)
 
 
@@ -19,20 +13,15 @@
 - 🌱 I'm interested in full stack, networking, system admin, and AI.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me ❓ Find me on Linkedin: [Let's get in touch!][linkedin]
-- 🏎 Website: https://phanjujuhel.com.np
+<!-- - 📬 How to reach me ❓ Find me on Linkedin: [Let's get in touch!][linkedin]
+- 🏎 Website: https://phanjujuhel.com.np -->
 - 🧗 I try to: Go beyond and push the bounds
 
 <br>
 
-## 📌 Inspiration: 
-> **Knowledge, like air, is vital to life. Like air, no one should be denied it.** ~Alan Moore
-
-<hr>
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anish_shilpakar" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="programmerscrunity" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="programmerscrunity" height="30" width="40" /></a>
@@ -74,7 +63,7 @@
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code> -->
 <br>
 
-<hr>
+<!-- <hr>
 
 ### :zap: Github Stats
 
@@ -109,4 +98,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
