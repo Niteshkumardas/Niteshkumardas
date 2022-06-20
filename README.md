@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 
 <p align="center">
@@ -18,7 +18,8 @@
 - 🧗 I try to: Go beyond and push the bounds
 
 <br>
-
+<br>
+<br>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
